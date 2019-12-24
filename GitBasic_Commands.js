@@ -1,6 +1,7 @@
 Important GIT Commands
------------------------
-
+------------------------------------------------------------------------
+Test
+------------------------------------------------------------------------
 SETUP & INIT
 Configuring user information used across all local repositories
 
