@@ -1,6 +1,6 @@
 Important GIT Commands
 ------------------------------------------------------------------------
-Test New 
+dev checkout
 ------------------------------------------------------------------------
 SETUP & INIT
 Configuring user information used across all local repositories
