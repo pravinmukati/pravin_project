@@ -1,6 +1,6 @@
 Important GIT Commands
 ------------------------------------------------------------------------
-Test New 
+Test staging  baranch
 ------------------------------------------------------------------------
 SETUP & INIT
 Configuring user information used across all local repositories
